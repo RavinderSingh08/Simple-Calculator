@@ -1,7 +1,7 @@
 # Simple Calculator App
 
 I made this project using HTML, CSS and Vanilla JavaScipt. This project fulfills all necessary fuctions of a calculator.
-<br/>
+<br/><br/><br/>
 ****_Live Project Link:_**** https://simple-calcyy.netlify.app/
 
 **ScreenShots :** <br/><br/>
